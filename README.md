@@ -1,6 +1,5 @@
 # cp2021
 
-## part1
 This is README
 - item1
 - item2
